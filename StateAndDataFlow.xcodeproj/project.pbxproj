@@ -68,7 +68,7 @@
 				0630458427C4070F00B51CED /* ContentView.swift */,
 				0630459027C40BEA00B51CED /* TimeCounter.swift */,
 				0630459227C4131600B51CED /* RegisterView.swift */,
-				1F4025AB28986EC8001665DA /* New Group */,
+				1F4025AB28986EC8001665DA /* Manager */,
 				0630458627C4071000B51CED /* Assets.xcassets */,
 				0630458827C4071000B51CED /* Preview Content */,
 			);
@@ -83,14 +83,14 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		1F4025AB28986EC8001665DA /* New Group */ = {
+		1F4025AB28986EC8001665DA /* Manager */ = {
 			isa = PBXGroup;
 			children = (
 				1F4025A928986EBC001665DA /* UserData.swift */,
 				0630459427C4147600B51CED /* UserManager.swift */,
 				1F4025AC28986F88001665DA /* Storage.swift */,
 			);
-			path = "New Group";
+			path = Manager;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
